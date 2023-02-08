@@ -21,10 +21,14 @@ Html : [Live Demo](https://www.free-css.com/assets/files/free-css-templates/prev
  - [cmb2](https://wordpress.org/plugins/cmb2/)
 
  ####  Log
-- Adding header menus by changing through the WordPress dashboard
+- Add header menus by changing through the WordPress dashboard
 - Added services section to add services
-- Adding portfolio section to attract customers
-    - Adding the price section for the plans provided by you
-    - Addition of service type (day, week, month, year) manual selection
-    - Possibility to change the name and link of the request registration button
-- Optimization for image size
+    - The possibility of adding infinite services
+- Adding a portfolio section to attract customers
+    - The possibility of adding infinite portfolios
+- Adding the price section for the plans provided by you
+    - Added service type (day, week, month, year) manual selection
+    - Ability to change the name and link of the request registration button
+    - The possibility of changing price plans through the WordPress counter
+    - The possibility of adding infinite services along with the price
+- Optimize for image size

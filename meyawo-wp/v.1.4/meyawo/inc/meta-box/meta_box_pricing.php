@@ -13,28 +13,28 @@ function pricing_metabox()
         'show_names' => true, // Show field names on the left
         'fields' => array(
             array(
-                'name' => 'Service pricing',
+                'name' => 'Service Pricing',
                 'desc' => 'Enter the price of this service only in numbers',
                 'id' => $tableName . '_sevice',
                 'type' => 'text_money',
             ),
             array(
-                'name' => 'Service duration',
+                'name' => 'Service Duration',
                 'desc' => 'Day/Week/Month/Year',
                 'id' => $tableName . 'duration_sevice',
                 'type' => 'select',
                 'options' => array(
-                    1 => 'Day',
-                    7 => 'Week',
-                    30 => 'Month',
-                    365 => 'Year',
+                    'Day' => 'Day',
+                    'Week' => 'Week',
+                    'Month' => 'Month',
+                    'Year' => 'Year',
                 ),
             ),
             array(
                 'name' => 'Botton Name',
                 'desc' => 'Enter the name of the service purchase button',
-                'id' => $tableName . 'purchase_button_sevice',
-                'type' => 'text_small',
+                'id' => $tableName . 'name_purchase_button_sevice',
+                'type' => 'text',
             ),
             array(
                 'name' => 'Botton Url',
