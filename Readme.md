@@ -32,3 +32,7 @@ Html : [Live Demo](https://www.free-css.com/assets/files/free-css-templates/prev
     - The possibility of changing price plans through the WordPress counter
     - The possibility of adding infinite services along with the price
 - Optimize for image size
+- v1.4.2
+    - add Archive
+    - add Archive page service
+    - add Archive page portfolio
