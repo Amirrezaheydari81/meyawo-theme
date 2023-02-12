@@ -36,3 +36,5 @@ Html : [Live Demo](https://www.free-css.com/assets/files/free-css-templates/prev
     - add Archive
     - add Archive page service
     - add Archive page portfolio
+- v1.4.3
+    -Add pagination to archive pages
